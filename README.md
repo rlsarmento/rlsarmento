@@ -10,4 +10,4 @@ Estou disponivel para ajudar conforme for me atualizando e me aperfeicoando.
 
 Bem vindo ao meu GitHub!!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlsarmento)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rlsarmento&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
