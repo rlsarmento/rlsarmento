@@ -9,3 +9,5 @@
 Estou disponivel para ajudar conforme for me atualizando e me aperfeicoando.
 
 Bem vindo ao meu GitHub!!
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rlsarmento)](https://git.io/streak-stats)
