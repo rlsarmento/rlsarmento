@@ -9,6 +9,7 @@ Linguagens:
 - CSS;
 - Pyton;
 - Kotlin;
+- Laravel;
 
 Banco de dados:
 - MySql;
